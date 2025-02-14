@@ -37,49 +37,49 @@ export const videoPaths = {
         ]
     },
     video5: {
-        videoUrl: '/videos/4.mov',
+        videoUrl: '/videos/5.mov',
         nextOptions: [
             { id: 'video6', text: 'Ask about redacted papers' },
             { id: 'video7', text: 'Ask about accountability' }
         ]
     },
     video6: {
-        videoUrl: '/videos/4.mov',
+        videoUrl: '/videos/6.mov',
         nextOptions: [
             { id: 'video9', text: 'Ask about redacted papers' },
             { id: 'video10', text: 'Ask about accountability' }
         ]
     },
     video7: {
-        videoUrl: '/videos/4.mov',
+        videoUrl: '/videos/7.mov',
         nextOptions: [
             { id: 'video9', text: 'Ask about redacted papers' },
             { id: 'video10', text: 'Ask about accountability' }
         ]
     },
     video8: {
-        videoUrl: '/videos/4.mov',
+        videoUrl: '/videos/8.mov',
         nextOptions: [
             { id: 'video10', text: 'Ask about redacted papers' },
             { id: 'video11', text: 'Ask about accountability' }
         ]
     },
     video9: {
-        videoUrl: '/videos/4.mov',
+        videoUrl: '/videos/9.mov',
         nextOptions: [
             { id: 'outro', text: 'Ask about redacted papers' },
             { id: 'outro', text: 'Ask about accountability' }
         ]
     },
     video10: {
-        videoUrl: '/videos/4.mov',
+        videoUrl: '/videos/10.mov',
         nextOptions: [
             { id: 'outro', text: 'Ask about redacted papers' },
             { id: 'outro', text: 'Ask about accountability' }
         ]
     },
     video11: {
-        videoUrl: '/videos/4.mov',
+        videoUrl: '/videos/11.mov',
         nextOptions: [
             { id: 'outro', text: 'Ask about redacted papers' },
             { id: 'outro', text: 'Ask about accountability' }
